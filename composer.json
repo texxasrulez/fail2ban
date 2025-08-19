@@ -2,7 +2,7 @@
   "name": "texxasrulez/fail2ban",
   "description": "displays failed login attempts in your syslog or userlogins log file",
   "keywords": ["fail2ban", "security"],
-  "homepage": "https://github.com/texxasrulez/roundcube_fail2ban",
+  "homepage": "https://github.com/texxasrulez/fail2ban",
   "license": "GPL-3.0",
   "type": "roundcube-plugin",
   "version": "1.4",
