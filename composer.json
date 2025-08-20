@@ -3,9 +3,13 @@
   "description": "displays failed login attempts in your syslog or userlogins log file",
   "keywords": ["fail2ban", "security"],
   "homepage": "https://github.com/texxasrulez/fail2ban",
+  "support": {
+    "issues": "https://github.com/texxasrulez/fail2ban/issues",
+    "source": "https://github.com/texxasrulez/fail2ban"
+  },
   "license": "GPL-3.0",
+    "version": "1.4",
   "type": "roundcube-plugin",
-  "version": "1.4",
   "extra": {
     "roundcube": {
       "min-version": "0.3"
